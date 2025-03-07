@@ -22,7 +22,7 @@ repository               : "WangyLab/WangyLab.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "pic.jpg"
+  avatar           : "pic.png"
   name             : "WANG Yang"
   pronouns         : # example: "he/him"  
   bio              : "AI4Mat"
