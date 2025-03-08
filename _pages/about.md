@@ -5,7 +5,7 @@
  redirect_from: 
    - /about/
    - /about.html
- ---
+---
 
 I'm WANG Yang, a PhD student at University of Science and Technology of China, advised by Prof. [Jun Jiang](https://scholar.google.com/citations?user=KLwebZkAAAAJ). My work is centered around AI4S, focusing on AI4Mat framework development, material generation algorithm, and multi-modal spctral integration.
 
