@@ -7,9 +7,9 @@
    - /about.html
 ---
 
-I'm WANG Yang, a PhD student at University of Science and Technology of China, advised by Prof. [Jun Jiang](https://scholar.google.com/citations?user=KLwebZkAAAAJ). My work is centered around AI4S, focusing on AI4Mat framework development, material generation algorithm, and multi-modal spctral integration.
+I'm WANG Yang, a PhD student at University of Science and Technology of China, advised by Prof. [Jun Jiang](https://scholar.google.com/citations?user=KLwebZkAAAAJ). My research is centered around AI4S, focusing on AI4Mat framework development, material generation algorithm, and multi-modal spctral integration.
 
-A data-driven personal website
+Educations
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
