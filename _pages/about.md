@@ -7,13 +7,13 @@
    - /about.html
 ---
 
-I'm WANG Yang, a Ph.D. student at University of Science and Technology of China, advised by Prof. [Jun Jiang](https://scholar.google.com/citations?user=KLwebZkAAAAJ). My research is centered around AI4S, focusing on AI4Mat framework development, material generation algorithm, and multi-modal spctral integration.
+I'm WANG Yang, a PhD student at University of Science and Technology of China. My research is centered around AI4S, focusing on AI4Mat framework development, material generation algorithm, and multi-modal spctral integration.
 
 Educations
 ======
-2021.09-2026.06: Physical Chemistry, University of Science and Technology of China (Prof. Jun Jiang)
+**2021.09-2026.06**: PhD in Physical Chemistry, University of Science and Technology of China (Prof. [Jun Jiang](https://scholar.google.com/citations?&user=KLwebZkAAAAJ))
 
-2017.09-2021.06: Material Chemistry, East China University of Science and Technology (Prof. Xiaoming Cao)
+**2017.09-2021.06**: Bachelor in Material Chemistry, East China University of Science and Technology (Prof. [Xiaoming Cao](https://scholar.google.com/citations?user=mQEqZisAAAAJ))
 
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
