@@ -27,7 +27,8 @@ Research Interests
 Publications
 ======
 1. [Accelerated Design of Dual-Metal-Site Catalysts via Machine-Learning Prediction](https://pubs.acs.org/doi/full/10.1021/acs.jpclett.5c00126)
-**Yang Wang**, Qian Wang, Xijun Wang, Jing Yang, Jun Jiang, Chuanyi Jia, *J. Phys. Chem. Lett.*, **2025**
+
+**Yang Wang**, Qian Wang, Xijun Wang, Jing Yang, Jun Jiang, Chuanyi Jia, ***J. Phys. Chem. Lett.***, **2025**
 
 
 For more info
