@@ -26,9 +26,9 @@ Research Interests
 
 Publications
 ======
-1. [Accelerated Design of Dual-Metal-Site Catalysts via Machine-Learning Prediction](https://pubs.acs.org/doi/full/10.1021/acs.jpclett.5c00126), **Yang Wang**, *Qian Wang*, *Xijun Wang*, Jing Yang, Jun Jiang, Chuanyi Jia\*, ***J. Phys. Chem. Lett.***, **2025**
+1. [Accelerated Design of Dual-Metal-Site Catalysts via Machine-Learning Prediction](https://pubs.acs.org/doi/full/10.1021/acs.jpclett.5c00126), ***Yang Wang***, *Qian Wang*, *Xijun Wang*, Jing Yang, Jun Jiang, Chuanyi Jia\*, ***J. Phys. Chem. Lett.***, **2025**
 
-2. [Exploring Enzyme-Mimicking Metal–Organic Frameworks for CO2 Conversion through Vibrational Spectra-Based Machine Learning](https://pubs.acs.org/doi/full/10.1021/acs.jpclett.4c01225), **Yang Wang**, *Yan Huang*, X. Wang\*, Jun Jiang\*, ***J. Phys. Chem. Lett.***, **2024**
+2. [Exploring Enzyme-Mimicking Metal–Organic Frameworks for CO2 Conversion through Vibrational Spectra-Based Machine Learning](https://pubs.acs.org/doi/full/10.1021/acs.jpclett.4c01225), ***Yang Wang***, *Yan Huang*, X. Wang\*, Jun Jiang\*, ***J. Phys. Chem. Lett.***, **2024**
 
 3. [Modulating the primary and secondary coordination spheres of single ni (II) sites in metal–organic frameworks for boosting photocatalysis](https://pubs.acs.org/doi/full/10.1021/jacs.4c00972), *Ge Yang*, *Denan Wang*, ***Yang Wang***, Wenhui Hu, Shuaishuai Hu, Jun Jiang, Jier Huang\*, Hai-Long Jiang\*, ***J. Am. Chem. Soc.***, **2024**
 
