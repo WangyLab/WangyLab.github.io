@@ -24,6 +24,12 @@ Research Interests
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
 1. Check status by going to the repository settings, in the "GitHub pages" section
 
+Publications
+======
+1. [Accelerated Design of Dual-Metal-Site Catalysts via Machine-Learning Prediction](https://pubs.acs.org/doi/full/10.1021/acs.jpclett.5c00126)
+**Yang Wang**, Qian Wang, Xijun Wang, Jing Yang, Jun Jiang, Chuanyi Jia, *J. Phys. Chem. Lett.*, **2025**
+
+
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
