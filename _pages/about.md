@@ -17,10 +17,10 @@ Educations
 
 Research Interests
 ======
-1. **High-throughput material screening based on machine learning**</p>Using advanced machine learning and data mining technologies, accelerate the prediction and screening of material properties, and provide efficient and low-cost solutions for the research and development of new materials.
-2. **Design and generation algorithms for new materials**</p>Develop and apply generative models and intelligent algorithms to explore innovative material structures and formula designs, and promote the controllable synthesis and performance optimization of materials.
-3. **Spectroscopy research driven by machine learning**</p>Through deep learning and signal processing technology, high-precision analysis, modeling and prediction of spectral data are achieved, providing new ideas for understanding material and molecular properties.
-4. **Construction and application of large-scale language models for molecules and materials**</p>Extend large-scale language models (LLMs) to the fields of molecules and materials, develop interpretable generation and reasoning functions, and help intelligent exploration of chemistry and materials science.
+1. **High-throughput material screening based on machine learning**
+2. **Design and generation algorithms for new materials**
+3. **Spectroscopy research driven by machine learning**
+4. **Construction and application of large-scale language models for molecules and materials**
 
 Publications
 ======
