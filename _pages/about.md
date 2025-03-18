@@ -26,13 +26,15 @@ Research Interests
 
 Publications
 ======
-1. [**Accelerated Design of Dual-Metal-Site Catalysts via Machine-Learning Prediction**](https://pubs.acs.org/doi/full/10.1021/acs.jpclett.5c00126), ***Yang Wang***, *Qian Wang*, *Xijun Wang*, Jing Yang, Jun Jiang, Chuanyi Jia\*, ***J. Phys. Chem. Lett.***, **2025**
+1. **High-Throughput Inorganic Material Multi-Target Prediction and Structure Inference via XANES-XRD Workflow**, ***Yang Wang***, Daobin Liu\*, Yan Huang\*, Jun Jiang\*, **2025** (To be published)
+  
+2. [**Accelerated Design of Dual-Metal-Site Catalysts via Machine-Learning Prediction**](https://pubs.acs.org/doi/full/10.1021/acs.jpclett.5c00126), ***Yang Wang***, *Qian Wang*, *Xijun Wang*, Jing Yang, Jun Jiang, Chuanyi Jia\*, ***J. Phys. Chem. Lett.***, **2025**
 
-2. [**Exploring Enzyme-Mimicking Metal–Organic Frameworks for CO<sub>2</sub> Conversion through Vibrational Spectra-Based Machine Learning**](https://pubs.acs.org/doi/full/10.1021/acs.jpclett.4c01225), ***Yang Wang***, *Yan Huang*, X. Wang\*, Jun Jiang\*, ***J. Phys. Chem. Lett.***, **2024**
+4. [**Exploring Enzyme-Mimicking Metal–Organic Frameworks for CO<sub>2</sub> Conversion through Vibrational Spectra-Based Machine Learning**](https://pubs.acs.org/doi/full/10.1021/acs.jpclett.4c01225), ***Yang Wang***, *Yan Huang*, X. Wang\*, Jun Jiang\*, ***J. Phys. Chem. Lett.***, **2024**
 
-3. [**Modulating the Primary and Secondary Coordination Spheres of Single Ni(II) Sites in Metal–Organic Frameworks for Boosting Photocatalysis**](https://pubs.acs.org/doi/full/10.1021/jacs.4c00972), *Ge Yang*, *Denan Wang*, ***Yang Wang***, Wenhui Hu, Shuaishuai Hu, Jun Jiang, Jier Huang\*, Hai-Long Jiang\*, ***J. Am. Chem. Soc.***, **2024**
+5. [**Modulating the Primary and Secondary Coordination Spheres of Single Ni(II) Sites in Metal–Organic Frameworks for Boosting Photocatalysis**](https://pubs.acs.org/doi/full/10.1021/jacs.4c00972), *Ge Yang*, *Denan Wang*, ***Yang Wang***, Wenhui Hu, Shuaishuai Hu, Jun Jiang, Jier Huang\*, Hai-Long Jiang\*, ***J. Am. Chem. Soc.***, **2024**
 
-4. [**A robotic AI-Chemist system for multi-modal AI-ready database**](https://academic.oup.com/nsr/article/10/12/nwad332/7502796), *Shuo Feng*, Aoran Cai, **Yang Wang**, Baicheng Zhang, Qinyu Qiao, Cheng Chen, Song Wang\*, Jun Jiang\*, ***Natl. Sci. Rev.***, **2023**
+6. [**A robotic AI-Chemist system for multi-modal AI-ready database**](https://academic.oup.com/nsr/article/10/12/nwad332/7502796), *Shuo Feng*, Aoran Cai, **Yang Wang**, Baicheng Zhang, Qinyu Qiao, Cheng Chen, Song Wang\*, Jun Jiang\*, ***Natl. Sci. Rev.***, **2023**
 
 For more info
 ------
