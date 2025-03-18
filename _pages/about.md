@@ -17,12 +17,10 @@ Educations
 
 Research Interests
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1. **High-throughput material screening based on machine learning**</p>Using advanced machine learning and data mining technologies, accelerate the prediction and screening of material properties, and provide efficient and low-cost solutions for the research and development of new materials.
+2. **Design and generation algorithms for new materials**</p>Develop and apply generative models and intelligent algorithms to explore innovative material structures and formula designs, and promote the controllable synthesis and performance optimization of materials.
+3. **Spectroscopy research driven by machine learning**</p>Through deep learning and signal processing technology, high-precision analysis, modeling and prediction of spectral data are achieved, providing new ideas for understanding material and molecular properties.
+4. **Construction and application of large-scale language models for molecules and materials**</p>Extend large-scale language models (LLMs) to the fields of molecules and materials, develop interpretable generation and reasoning functions, and help intelligent exploration of chemistry and materials science.
 
 Publications
 ======
