@@ -7,7 +7,7 @@
    - /about.html
 ---
 
-I'm WANG Yang, a PhD student at University of Science and Technology of China. My research is centered around AI4S, focusing on AI4Mat framework development, material generation algorithm, and multi-modal spctral integration.
+I'm WANG Yang, a PhD student at University of Science and Technology of China. My research is centered around AI for Science.
 
 Educations
 ======
