@@ -3,106 +3,98 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>WANG Yang</title>
+  <title>WANG Yang | AI for Science</title>
+  <meta name="description" content="WANG Yang at Xiaomi AI Lab. Research interests include large language models, AI agents, scientific discovery, and spectroscopy algorithms." />
   <style>
-    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root {
+      color-scheme: light;
+      --ink: #172c2b;
+      --muted: #465b59;
+      --accent: #12625a;
+      --line: #d4e2de;
+    }
 
+    *, *::before, *::after { box-sizing: border-box; }
+    html { background: #f7faf9; }
     body {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-      font-size: 16px;
-      line-height: 1.7;
-      color: #1a1a1a;
-      background: #fff;
-      padding: 4rem 1.5rem;
-      max-width: 720px;
-      margin: 0 auto;
+      max-width: 54rem;
+      margin: auto;
+      padding: clamp(1.25rem, 6vw, 4.5rem) 1.25rem;
+      color: var(--ink);
+      font: 1rem/1.65 system-ui, sans-serif;
     }
-
-    header { margin-bottom: 3rem; }
-
-    h1 {
-      font-size: 2rem;
-      font-weight: 700;
-      letter-spacing: -0.02em;
-      margin-bottom: 0.25rem;
+    header {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      align-items: center;
+      gap: 1.5rem;
+      padding: clamp(1.25rem, 4vw, 2.5rem);
+      border: 1px solid var(--line);
+      border-radius: 1.25rem;
+      background: #edf6f2;
     }
-
-    .meta {
-      font-size: 0.9rem;
-      color: #555;
-      margin-bottom: 0.75rem;
-    }
-
-    .links a {
-      font-size: 0.85rem;
-      color: #1a1a1a;
-      text-decoration: none;
-      border-bottom: 1px solid #ccc;
-      margin-right: 1rem;
-    }
-    .links a:hover { border-bottom-color: #1a1a1a; }
-
-    section { margin-bottom: 2.5rem; }
-
-    h2 {
-      font-size: 0.75rem;
-      font-weight: 600;
-      letter-spacing: 0.1em;
-      text-transform: uppercase;
-      color: #888;
-      margin-bottom: 1rem;
-      padding-bottom: 0.4rem;
-      border-bottom: 1px solid #e8e8e8;
-    }
-
-    p { margin-bottom: 0.75rem; }
-
-    .edu-entry { margin-bottom: 0.6rem; }
-    .edu-period { font-size: 0.85rem; color: #888; }
-
-    ol.interests { padding-left: 1.25rem; }
-    ol.interests li { margin-bottom: 0.3rem; }
-
-    ol.pubs { padding-left: 1.25rem; }
-    ol.pubs li { margin-bottom: 0.9rem; font-size: 0.95rem; }
-
-    ol.pubs a { color: #1a1a1a; }
-    ol.pubs a:hover { color: #555; }
-
-    em { font-style: italic; }
-    strong { font-weight: 600; }
-
-    sub { font-size: 0.75em; }
-
     .avatar {
-      width: 220px;
-      height: 220px;
+      width: clamp(5rem, 18vw, 9rem);
+      aspect-ratio: 1;
       border-radius: 50%;
       object-fit: cover;
       object-position: center top;
-      display: block;
-      margin-bottom: 1.25rem;
+    }
+    h1 { margin: 0; font-size: clamp(2rem, 6vw, 3.5rem); line-height: 1.1; }
+    .eyebrow { margin: 0 0 .5rem; color: var(--accent); font-weight: 650; }
+    .meta { color: var(--muted); margin: .75rem 0 1rem; }
+    a { color: var(--accent); text-underline-offset: .2em; }
+    a:focus-visible { outline: 2px solid var(--accent); outline-offset: 4px; }
+    nav, .links { display: flex; flex-wrap: wrap; gap: .5rem 1.2rem; }
+    nav { margin: 1.25rem 0 2rem; }
+    section { margin: 0 0 2.5rem; scroll-margin-top: 1rem; }
+    h2 { margin: 0 0 1rem; padding-bottom: .5rem; border-bottom: 1px solid var(--line); }
+    .edu-entry + .edu-entry { margin-top: 1rem; }
+    .edu-period, .entry-detail { color: var(--muted); }
+    .entries { list-style: none; padding: 0; }
+    ol, ul { padding-inline-start: 1.5rem; }
+    li + li { margin-top: .65rem; }
+    .pubs li { padding: 0 0 1rem .25rem; border-bottom: 1px solid var(--line); }
+    @media (max-width: 420px) {
+      header { grid-template-columns: 1fr; }
+      .avatar { grid-row: 1; }
     }
   </style>
 </head>
 <body>
 
   <header>
-    <img src="pic.png" alt="WANG Yang" class="avatar" />
-    <h1>WANG Yang</h1>
-    <p class="meta">PhD Student · University of Science and Technology of China · Hefei</p>
-    <div class="links">
-      <a href="https://scholar.google.com/citations?user=6AS5UusAAAAJ" target="_blank" rel="noopener">Google Scholar</a>
-      <a href="https://github.com/WangyLab" target="_blank" rel="noopener">GitHub</a>
+    <div>
+      <p class="eyebrow">AI for Science</p>
+      <h1>WANG Yang</h1>
+      <p class="meta">Xiaomi AI Lab</p>
+      <div class="links">
+        <a href="https://scholar.google.com/citations?user=6AS5UusAAAAJ" target="_blank" rel="noopener">Google Scholar</a>
+        <a href="mailto:wayne2lab@gmail.com">wayne2lab@gmail.com</a>
+        <a href="https://github.com/WangyLab" target="_blank" rel="noopener">GitHub</a>
+      </div>
     </div>
+    <img src="pic.png" alt="" class="avatar" width="144" height="144" />
   </header>
 
-  <section>
+  <nav aria-label="On this page">
+    <a href="#about">About</a>
+    <a href="#education">Education</a>
+    <a href="#research">Research</a>
+    <a href="#publications">Publications</a>
+    <a href="#service">Academic Service</a>
+    <a href="#teaching">Teaching</a>
+    <a href="#awards">Awards</a>
+  </nav>
+
+  <main>
+
+  <section id="about">
     <h2>About</h2>
-    <p>I'm WANG Yang, a PhD student at University of Science and Technology of China. My research is centered around AI for Science.</p>
+    <p>My research focuses on large language models and AI agents for scientific discovery. I also develop algorithms that use spectroscopic data to predict material properties and infer structures.</p>
   </section>
 
-  <section>
+  <section id="education">
     <h2>Education</h2>
     <div class="edu-entry">
       <strong>PhD in Physical Chemistry</strong><br />
@@ -117,26 +109,25 @@
     </div>
   </section>
 
-  <section>
+  <section id="research">
     <h2>Research Interests</h2>
-    <ol class="interests">
-      <li><strong>Design of LLMs and Intelligent Agents</strong></li>
-      <li><strong>Development and Integration of Automated Experimental Platforms</strong></li>
-      <li><strong>Material Property Prediction</strong></li>
-      <li><strong>Optimization of Experimental Parameters</strong></li>
-    </ol>
+    <ul class="interests">
+      <li><strong>Large language models and AI agents.</strong> Reasoning, tool use, and multi-step scientific workflows.</li>
+      <li><strong>AI for scientific discovery.</strong> Experiment planning, laboratory automation, and materials discovery.</li>
+      <li><strong>Spectroscopy algorithms.</strong> Learning from spectra and diffraction patterns for materials property prediction and structure inference.</li>
+    </ul>
   </section>
 
-  <section>
-    <h2>Publications</h2>
+  <section id="publications">
+    <h2>Selected Publications</h2>
     <ol class="pubs">
       <li>
-        <strong>AI-Driven Development of High-Entropy Prussian Blue Cathodes Beyond Closed-Loop Optimization</strong><br />
-        <em>LuLu Guo</em>, <strong>Yang Wang</strong>, Yan Huang*, Daobin Liu*, Jun Jiang* — <em>2025 (To be published)</em>
-      </li>
-      <li>
-        <strong>High-Throughput Inorganic Material Multi-Target Prediction and Structure Inference via XANES-XRD Workflow</strong><br />
-        <strong>Yang Wang</strong>, Daobin Liu*, Yan Huang*, Jun Jiang* — <em>2025 (To be published)</em>
+        <a href="https://doi.org/10.1039/D6SC00651E">
+          <strong>Spectroscopy-informed XANES–PXRD framework for multi-property prediction and structure inference</strong>
+        </a><br />
+        <strong>Yang Wang</strong>†, Siyuan Zhao†, Man Luo, Hantao Zeng, Yi Feng, Daobin Liu*, Yan Huang*, Jun Jiang* —
+        <em>Chemical Science</em>, 2026<br />
+        <small>† Equal contribution · <a href="https://github.com/WangyLab/XANES-XRD_WorkFlow">Code and data</a></small>
       </li>
       <li>
         <a href="https://pubs.acs.org/doi/full/10.1021/acs.jpclett.5c00126" target="_blank" rel="noopener">
@@ -167,7 +158,37 @@
         <em>Natl. Sci. Rev.</em>, 2023
       </li>
     </ol>
+    <h3>Unpublished Work</h3>
+    <ul>
+      <li>
+        <strong>AI-Driven Development of High-Entropy Prussian Blue Cathodes Beyond Closed-Loop Optimization</strong><br />
+        Lulu Guo, <strong>Yang Wang</strong>, Yan Huang*, Daobin Liu*, Jun Jiang*
+      </li>
+    </ul>
   </section>
 
+  <section id="service">
+    <h2>Academic Service</h2>
+    <p>Peer reviewer for <em>Digital Discovery</em>, Royal Society of Chemistry (RSC).</p>
+  </section>
+
+  <section id="teaching">
+    <h2>Teaching</h2>
+    <p>
+      <strong>Teaching Assistant · Density Functional Theory and Theoretical Calculations</strong><br />
+      <span class="entry-detail">University of Science and Technology of China · 2023–2024</span>
+    </p>
+  </section>
+
+  <section id="awards">
+    <h2>Awards</h2>
+    <ul class="entries">
+      <li><strong>Outstanding Poster Award</strong><br />
+        <span class="entry-detail">34th Annual Meeting of the Chinese Chemical Society · 2024</span></li>
+      <li><strong>Outstanding Poster Award</strong><br />
+        <span class="entry-detail">33rd Annual Meeting of the Chinese Chemical Society · 2023</span></li>
+    </ul>
+  </section>
+  </main>
 </body>
 </html>
