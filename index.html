@@ -55,6 +55,15 @@
     ol, ul { padding-inline-start: 1.5rem; }
     li + li { margin-top: .65rem; }
     .pubs li { padding: 0 0 1rem .25rem; border-bottom: 1px solid var(--line); }
+    .visit-count {
+      margin-top: 2rem;
+      padding-top: 1rem;
+      border-top: 1px solid var(--line);
+      color: var(--muted);
+      font-size: .8rem;
+      text-align: right;
+      font-variant-numeric: tabular-nums;
+    }
     @media (max-width: 420px) {
       header { grid-template-columns: 1fr; }
       .avatar { grid-row: 1; }
@@ -187,5 +196,11 @@
     </ul>
   </section>
   </main>
+  <footer class="visit-count" aria-label="Site visits">
+    <span id="busuanzi_container_site_pv" style="display: none">
+      Total visits · <span id="busuanzi_value_site_pv"></span>
+    </span>
+  </footer>
+  <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 </body>
 </html>
